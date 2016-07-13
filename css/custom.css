@@ -254,3 +254,30 @@
     display: none;
   }
 }
+
+#skillsTitle
+{
+    color: black;
+}
+
+#textColor
+{
+    color:black;
+}
+
+#contactMe 
+{
+    color:black;
+}
+#button
+{
+  background-color: royalblue;
+}
+#menu
+{
+    color: royalblue;
+}
+#form1
+{
+    color: royalblue;
+}
